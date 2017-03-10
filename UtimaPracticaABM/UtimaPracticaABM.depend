@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477321613 source:c:\practicas c\utimapracticaabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1477318600 c:\practicas c\utimapracticaabm\funciones.h
+	"personas.h"
+
+1477318335 c:\practicas c\utimapracticaabm\personas.h
+

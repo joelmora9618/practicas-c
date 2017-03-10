@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478627088 source:c:\de la facu\practicas c\devuelta en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1478623976 c:\de la facu\practicas c\devuelta en c\persona.h
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1480433489 source:c:\de la facu\practicas c\repaso\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"personas.h"
+
+1479917514 c:\de la facu\practicas c\repaso\archivos\funcion.h
+	"persona.h"
+	<string.h>
+
+1479841079 c:\de la facu\practicas c\repaso\archivos\persona.h
+
+1480107167 c:\de la facu\practicas c\repaso\archivos\funciones.h
+	"personas.h"
+
+1480088442 c:\de la facu\practicas c\repaso\archivos\personas.h
+

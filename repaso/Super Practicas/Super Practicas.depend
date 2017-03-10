@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1480711639 source:c:\de la facu\practicas c\repaso\super practicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca_J.c"
+	"personas.h"
+	"abm_Funciones.c"
+
+1480708424 c:\de la facu\practicas c\repaso\super practicas\biblioteca_j.c
+
+1480708984 c:\de la facu\practicas c\repaso\super practicas\personas.h
+
+1480711502 c:\de la facu\practicas c\repaso\super practicas\abm_funciones.c
+	"biblioteca_J.h"
+
+1480708424 c:\de la facu\practicas c\repaso\super practicas\biblioteca_j.h
+

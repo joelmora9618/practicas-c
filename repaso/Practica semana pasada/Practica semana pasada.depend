@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1480612245 source:c:\de la facu\practicas c\repaso\practica semana pasada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"personas.h"
+	"funciones.h"
+
+1480611796 c:\de la facu\practicas c\repaso\practica semana pasada\personas.h
+
+1480613107 c:\de la facu\practicas c\repaso\practica semana pasada\funciones.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"personas.h"
+

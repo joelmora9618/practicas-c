@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481141722 source:c:\de la facu\practicas c\repaso\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

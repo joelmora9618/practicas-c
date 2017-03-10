@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1481030445 source:c:\de la facu\practicas c\repaso\ultima practica de abm pag\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca_J.c"
+	"funciones.c"
+
+1480961913 c:\de la facu\practicas c\repaso\ultima practica de abm pag\biblioteca_j.c
+
+1481030433 c:\de la facu\practicas c\repaso\ultima practica de abm pag\funciones.c
+	"persona.h"
+	"biblioteca_J.c"
+
+1481030428 c:\de la facu\practicas c\repaso\ultima practica de abm pag\persona.h
+

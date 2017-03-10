@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1480688125 source:c:\de la facu\practicas c\repaso\ultima practica terminar abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"funciones.h"
+	"biblioteca_J.c"
+
+1480687824 c:\de la facu\practicas c\repaso\ultima practica terminar abm\persona.h
+
+1480691619 c:\de la facu\practicas c\repaso\ultima practica terminar abm\funciones.h
+	"persona.h"
+	<string.h>
+	"biblioteca_J.c"
+
+1480687451 c:\de la facu\practicas c\repaso\ultima practica terminar abm\biblioteca_j.h
+
+1480691545 c:\de la facu\practicas c\repaso\ultima practica terminar abm\biblioteca_j.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
