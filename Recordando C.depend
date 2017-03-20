@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1490033761 source:c:\recordando c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jem_fun.c"
+	"abm_fun.c"
+
+1490016339 c:\recordando c\biblioteca.h
+
+1490036678 c:\recordando c\jem_fun.c
+	"alumnos.c"
+
+1490036678 c:\recordando c\alumnos.c
+
+1490036691 c:\recordando c\abm_fun.c
+	"jem_fun.h"
+
+1490028890 c:\recordando c\jem_fun.h
+
