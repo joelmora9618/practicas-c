@@ -17,3 +17,19 @@
 
 1490028890 c:\recordando c\jem_fun.h
 
+1490033761 source:c:\c 2017\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jem_fun.c"
+	"abm_fun.c"
+
+1490036678 c:\c 2017\abm\jem_fun.c
+	"alumnos.c"
+
+1490036678 c:\c 2017\abm\alumnos.c
+
+1490036691 c:\c 2017\abm\abm_fun.c
+	"jem_fun.h"
+
+1490028890 c:\c 2017\abm\jem_fun.h
+
